@@ -3,8 +3,8 @@
 
 
 ### About Me
-* Interested in artificial intelligence and machine learning
-* Currently learning: C++ and German!
+* Interested in artificial intelligence and machine learning.
+* Currently learning: JavaScript and German!
 * You can reach me at: trayden.boucher03@gmail.com
 
 ### Technical Skills
