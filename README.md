@@ -3,7 +3,7 @@
 
 
 ### About Me
-* Interested in Artifical Intelligence and Machine Learning
+* Interested in artificial intelligence and machine learning
 * Currently learning: C++
 * You can reach me at: trayden.boucher03@gmail.com
 
