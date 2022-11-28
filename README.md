@@ -8,12 +8,8 @@
 * You can reach me at: trayden.boucher03@gmail.com
 
 ### Technical Skills
-* Java
-* Python
-* Bash Scripting
-* C
-* C++
-* MySQL
+* Most experienced with Java and Python
+* Some experience with Shell Scripting, C, C++, Git and MySQL
 
 ### LeetCode Stats
 [![traydenpoke's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=traydenpoke&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
