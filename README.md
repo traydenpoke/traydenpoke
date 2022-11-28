@@ -1,5 +1,5 @@
 ### Hi, I'm Trayden.
-![traydenpoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=traydenpoke&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight)
+![traydenpoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=traydenpoke&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true)
 
 
 ### About Me
@@ -9,7 +9,7 @@
 
 ### Technical Skills
 * Most experienced with Java and Python
-* Some experience with Shell Scripting, C, C++, Git and MySQL
+* Some experience with Bash/Shell Scripting, C, C++, Git and MySQL
 
 ### LeetCode Stats
 [![traydenpoke's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=traydenpoke&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
