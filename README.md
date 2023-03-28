@@ -2,7 +2,7 @@
 
 ### About Me
 * Interested in artificial intelligence and machine learning.
-* Currently learning: SQL and German!
+* Currently learning: SQL and NoSQL
 * You can reach me at: trayden.boucher03@gmail.com
 
 ### Technical Skills
