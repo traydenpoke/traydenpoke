@@ -7,7 +7,7 @@
 
 ### Technical Skills
 * Most experienced with Java and Python
-* Some experience with Bash/Shell Scripting, C, C++, Git and SQL (MySQL, SQLite)
+* Some experience with Bash/Shell Scripting, Linux, C, C++, Git and SQL (MySQL, SQLite)
 
 ### LeetCode Stats
 [![traydenpoke's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=traydenpoke&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
