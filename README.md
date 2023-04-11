@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Trayden Boucher.
-* ️‍🔥 I'm interested in artificial intelligence and machine learning.
+* ️‍✨ I'm interested in artificial intelligence and machine learning.
 * 🧠 Currently learning SQL and NoSQL databases, as well as High German!
 
 ### Technical Skills 💻
