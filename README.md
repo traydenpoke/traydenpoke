@@ -8,7 +8,6 @@
 
 ### Contact ☎
 * 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com or contact me on Discord, traydenpoke#8425.
-* 🌐 Website at: https://traydenpoke.github.io/personal-portfolio
 
 ### LeetCode Stats
 [![traydenpoke's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=traydenpoke&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
