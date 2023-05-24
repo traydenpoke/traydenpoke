@@ -3,7 +3,7 @@
 * 🧠 Currently learning SQL and NoSQL databases, as well as High German!
 
 ### Technical Skills 💻
-* 📖 I'm currently studying 2nd year Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
+* 📖 I'm currently studying 3rd year Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
 * 💡 My skills include experience with Java, Python, C/C++, HTML/CSS, JavaScript, Git (GitHub), SQL (MySQL, SQLite), Bash/Shell Scripting, and Linux.
 
 ### Contact ☎
