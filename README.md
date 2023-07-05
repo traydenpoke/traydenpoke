@@ -4,10 +4,10 @@
 
 ### Technical Skills 💻
 * 📖 I'm currently studying 3rd year Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
-* 💡 My skills include experience with Java, Python, C/C++, HTML/CSS, JavaScript, Git (GitHub), SQL (MySQL, SQLite), Bash/Shell Scripting, and Linux.
+* 💡 My skills include experience with Java, Python, C/C++, HTML/CSS, JavaScript, React, Git (GitHub), SQL (MySQL, SQLite), Bash/Shell Scripting, and Linux.
 
 ### Contact ☎
-* 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com or contact me on Discord, traydenpoke#8425.
+* 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com or contact me on Discord, traydenpoke.
 * 🌐 Website at: https://traydenpoke.github.io/personal-portfolio
 
 ### LeetCode Stats
