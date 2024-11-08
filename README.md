@@ -3,8 +3,8 @@
 * 🧠 Currently learning SQL and NoSQL databases, as well as High German!
 
 ### Technical Skills 💻
-* 📖 I'm currently studying 3rd year Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
-* 💡 My skills include experience with Java, Python, C/C++, HTML/CSS, JavaScript, React, Git (GitHub), NoSQL (MongoDB), SQL (MySQL, SQLite), Bash/Shell Scripting, and Linux.
+* 📖 I'm currently a 3rd-year studying at Queen's University towards a Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
+* 💡 My skills include experience with Python, TypeScript, JavaScript, HTML/CSS, Java, C/C++, React, Node.js, Express.js, REST APIs, Git (GitHub), NoSQL (MongoDB), SQL (MySQL, SQLite), Bash/Shell Scripting, and Linux.
 
 ### Contact ☎
 * 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com or contact me on Discord, @traydenpoke.
