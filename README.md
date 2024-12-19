@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Trayden Boucher.
 * ️‍✨ I'm interested in artificial intelligence and machine learning.
-* 🧠 I'm currently learning C#!
 * 📖 I'm currently a 3rd-year studying at Queen's University towards a Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
 
 
