@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Trayden Boucher.
-* ️‍✨ I'm interested in artificial intelligence and machine learning.
 * 📖 I'm currently a 3rd-year studying at Queen's University towards a Bachelor of Computing (Honours) with a focus in Artificial Intelligence.
+* 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com or contact me on Discord, @traydenpoke.
+* 🌐 Website at: https://traydenpoke.github.io/personal-portfolio
 
 
 ### Technologies 💻
@@ -21,8 +22,3 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-### Contact ☎
-* 📫 How to reach me: Shoot me an email at trayden.boucher03@gmail.com or contact me on Discord, @traydenpoke.
-* 🌐 Website at: https://traydenpoke.github.io/personal-portfolio
